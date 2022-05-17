@@ -47,10 +47,7 @@ LinuxC++内存泄漏检测神器valgrind - 知乎
 
 https://zhuanlan.zhihu.com/p/458505244
 
-
-
 用法: valgrind[options] prog-and-args [options]:  
-
 
 常用选项，适用于所有Valgrind工具  
 -tool= 最常用的选项。运行 valgrind中名为toolname的工具。默认memcheck。 h –help 显示帮助信息。  
@@ -76,8 +73,6 @@ LOG信息输出:
 -leak-check=no|summary|full 要求对leak给出详细信息? [summary]  
 -leak-resolution=low|med|high how much bt merging in leak check [low]  
 -show-reachable=no|yes show reachable blocks in leak check? [no]
-
-
 
 ### KCacheGrind
 

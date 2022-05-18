@@ -33,12 +33,14 @@ libxrandr2/jammy,now 2:1.5.2-1build1 amd64 [installed,automatic]
 x@x:~$ sudo apt install libxrandr-dev
 ```
 
-- 
-  
-  - libatlas
-  
-  
-  
+- - libatlas
+
   `sudo apt-get install libatlas-base-dev` OpenBLAS 是一个优化的 BLAS 库，基于 GotoBLAS2 1.13 BSD 版本。
 
 BLAS（Basic Linear Algebra Subprograms 基础线性代数程序集）是一个应用程序接口（API）标准，用以规范发布基础线性代数操作的数值库（如矢量或矩阵乘法）。该程序集最初发布于 1979 年，并用于建立更大的数值程序包（如 LAPACK）。在高性能计算领域，BLAS 被广泛使用。例如，LINPACK 的运算成绩则很大程度上取决于 BLAS 中子程序 DGEMM 的表现。为提高性能，各軟硬件厂商则针对其產品对 BLAS 接口实现进行高度优化。
+
+
+
+- VCPKG OpenCV
+  
+  libxdamage-dev

@@ -30,7 +30,7 @@ git push  origin master
 
 #### git 加tag
 
-```
+```bash
 git tag -a v0.0.1 -m "v0.0.1发布"
 git push origin v0.0.1
 ```
@@ -40,12 +40,10 @@ git push origin v0.0.1
 创建附注标签：`git tag -a v0.0.1 -m "v0.0.1发布"`
 删除标签：`git tag -d v0.0.1`
 
-
 查看标签的版本信息：`git show v0.0.1`
 指向打v0.0.2标签时的代码状态：`git checkout v0.0.2`
 将v0.0.1标签提交到git服务器：`git push origin v0.0.1`
 将本地所有标签一次性提交到git服务器：`git push origin –tags`
-
 
 https://www.jianshu.com/p/cdd80dd15593
 
@@ -55,15 +53,13 @@ tag 对应某次commit, 是⼀个点，是不可移动的。
 branch 对应⼀系列commit，是很多点连成的⼀根线，有⼀个HEAD 指针，是可以依靠 HEAD 指针移动的。
 所以，两者的区别决定了使⽤⽅式，改动代码⽤ branch ,不改动只查看⽤ tag。  
 
-
-
 ### git 冲突:
 
 [Your local changes to the following files would be overwritten by mergegit](https://blog.csdn.net/qq_41018861/article/details/118442711)
 
 - 保留本地的方式修改
 
-```
+```bash
 # 备份当前的工作区的内容, 让工作区保证和上次提交的内容一致
 git stash 
 # 拉取最新的代码

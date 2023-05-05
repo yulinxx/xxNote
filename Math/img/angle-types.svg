@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="526.6"
+   height="82.8"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="angle-types.svg"><metadata
+   id="metadata48">
+  <rdf:RDF>
+    <cc:Work
+       rdf:about="">
+      <dc:format>image/svg+xml</dc:format>
+      <dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    </cc:Work>
+  </rdf:RDF>
+</metadata>
+<sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1366"
+   inkscape:window-height="745"
+   id="namedview46"
+   showgrid="false"
+   inkscape:zoom="2.1876188"
+   inkscape:cx="255.08931"
+   inkscape:cy="19.719954"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg2" />
+<defs
+   id="defs4" />
+<path
+   style="fill:none; stroke:#f57900; stroke-width:2.2;"
+   d="m 43.5,1.7 -41,42.6 60.3,0"
+   id="path6" />
+<path
+   style="color:black; fill:none; stroke:black; stroke-width:0.59;"
+   d="m 20,25.4 a 26.3,26.3 0 0 1 8.1,18.2"
+   id="path8" />
+<path
+   style="fill:none; stroke:#3465a4; stroke-width:2.2;"
+   d="m 89.6,0 0,44.3 52.3,0"
+   id="path10" />
+<path
+   style="fill:none; stroke:#204a87; stroke-width:2.2;"
+   d="m 152.4,2.3 24.3,41.9 60.3,0"
+   id="path12" />
+<path
+   style="color:black; fill:none; stroke:black; stroke-width:0.59;"
+   d="m 164.2,20.9 a 26.3,26.3 0 0 1 25.3,1 26.3,26.3 0 0 1 12.8,21.9"
+   id="path14" />
+<path
+   style="color:black; fill:none; stroke:black; stroke-width:0.59;"
+   d="m 263,43.6 a 26.3,26.3 0 0 1 26.3,-25.6 26.3,26.3 0 0 1 26.3,25.6"
+   id="path16" />
+<path
+   style="fill:none; stroke:#ef2929; stroke-width:2.2;"
+   d="m 343.1,79.8 25.5,-38.4 60.3,0"
+   id="path18" />
+<path
+   style="color:black; fill:none; stroke:black; stroke-width:0.59;"
+   d="M 353.2,63.5 A 26.3,26.3 0 0 1 343.4,31.8 26.3,26.3 0 0 1 372.4,15.7 26.3,26.3 0 0 1 394.1,40.9"
+   id="path20" />
+<path
+   style="fill:none; stroke:#edd400; stroke-width:2.2;"
+   d="m 466.2,43.4 60.3,0"
+   id="path22" />
+<path
+   style="color:black; fill:none; stroke:black; stroke-width:0.59;"
+   d="m 491.8,43.2 a 26.3,26.3 0 0 1 -26,26.5 26.3,26.3 0 0 1 -26.6,-25.9 26.3,26.3 0 0 1 25.7,-26.8 26.3,26.3 0 0 1 26.9,25.6"
+   id="path24" />
+<path
+   style="fill:none; stroke:black; stroke-width:0.88;"
+   d="m 105.1,43 0.3,-14.3 -14.4,0"
+   id="path26" />
+<path
+   style="color:black; fill:none; stroke:#e9b96e; stroke-width:2.2;"
+   d="m 252.3,43 72.5,0"
+   id="path28" />
+<text
+   x="9.1000004"
+   y="67.099998"
+   transform="scale(1.085,0.92163)"
+   style="font-size:14.69999981px;font-family:'Comic Sans MS';fill:#f57900"
+   id="text30">锐角</text>
+<text
+   x="94.699997"
+   y="61.599998"
+   style="font-size:14.69999981px;font-family:'Comic Sans MS';fill:#3465a4"
+   id="text32">直角</text>
+<text
+   x="178.7"
+   y="62.799999"
+   style="font-size:14.69999981px;font-family:'Comic Sans MS';fill:#204a87"
+   id="text34">钝角</text>
+<text
+   x="275.39999"
+   y="61.599998"
+   style="font-size:14.69999981px;font-family:'Comic Sans MS';fill:#e9b96e;stroke:#e9b96e;stroke-width:0.15000001px"
+   id="text36">平角</text>
+<text
+   x="366.39999"
+   y="62"
+   style="font-size:14.69999981px;font-family:'Comic Sans MS';fill:#ef2929"
+   id="text38">优角</text>
+<text
+   x="521.59998"
+   y="62.5"
+   style="font-size:14.69999981px;font-family:'Comic Sans MS';text-align:end;text-anchor:end;fill:#edd400"
+   id="text40">周角</text>
+<text
+   x="1157.6"
+   y="3525.3"
+   style="font-family:'Comic Sans MS'; text-align:center; text-anchor:middle; font-size:29.7px; fill:black;"
+   id="text42" />
+
+  
+<text
+   x="523.59998"
+   y="78.5"
+   style="font-size:14.69999981px;font-family:'Comic Sans MS';text-align:end;text-anchor:end;fill:#edd400"
+   id="text44" />
+</svg>
